@@ -44,3 +44,15 @@ div.head i {
     margin: 5px;
     padding: 10px 10px;
 }
+p.intro {
+    color: blueviolet;
+    font-size: xx-large;
+    margin: auto;
+    padding: 30px;
+    height: 110px;
+    text-align: center;
+}
+span.intro {
+    text-decoration: line-through;
+    font-size: xxx-large;
+}
