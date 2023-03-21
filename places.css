@@ -209,16 +209,21 @@ article h3 {
 }
 
 
-@media only screen and (max-width: 850px) {
+@media only screen and (min-width: 414px) {
+
     
 	.places h1 {
+		display: block;
+		margin: 30px 80px;
 		text-align: center;
 		border: 2px dashed #FF5A5F;
 		border-radius: 10px;
 		background-color: black;
 		color: #FF5A5F;
 	}
-	.article {
-		width: 100%;
+	
+	article {
+		display: ;
+		width: 90%;
 	}
 }

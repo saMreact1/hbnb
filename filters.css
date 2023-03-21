@@ -69,10 +69,12 @@ h4 {
     display: block;
 }
 
-@media only screen and (max-width: 850px) {
+@media only screen and (min-width: 414px) {
     
     .filters {
         height: 45px;
+        width: 60%;
+        margin: 0 auto;
     }
 
     h4.state, h4.amen {
@@ -83,7 +85,7 @@ h4 {
         font-size: 15px;
         height: 25px;
         width: 25%;
-        margin: auto 20px;
+        margin: auto 10px;
     }
 
     .filters .locations, .filters .amenities {
