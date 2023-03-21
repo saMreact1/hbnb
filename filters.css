@@ -71,37 +71,4 @@ h4 {
 
 @media only screen and (min-width: 414px) {
     
-    .filters {
-        height: 45px;
-        width: 60%;
-        margin: 0 auto;
-    }
-
-    h4.state, h4.amen {
-        display: none;
-    }
-
-    .filters button {
-        font-size: 15px;
-        height: 25px;
-        width: 25%;
-        margin: auto 10px;
-    }
-
-    .filters .locations, .filters .amenities {
-        width: 27%;
-        margin-left: 20px;
-    }
-
-    .popover  {
-        top: 14px;
-        padding: 11px;
-        left: -24px;
-    }
-
-    .popover h2 {
-        font-size: 14px;
-        margin: 0 -20px;
-    }
-
 }
