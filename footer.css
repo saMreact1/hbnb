@@ -9,6 +9,8 @@ footer {
     justify-content: center;
 }
 
-@media only screen and (min-width: 414px) {
-    
+@media screen and (max-width: 414px) {
+    footer {
+        height: 40px;
+    }
 }
