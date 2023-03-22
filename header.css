@@ -9,7 +9,7 @@ header {
     background-position-y: center;
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 414px) {
     header {
         background-position: center;
         border: none;

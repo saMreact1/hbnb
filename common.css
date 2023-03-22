@@ -12,7 +12,7 @@ body {
 
 @media screen and (max-width: 414px) {
     body {
-        margin: 20px 40px;
+        margin: 20px 20%;
         font-size: 18px;
         width: 100%;
     }
