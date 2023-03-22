@@ -221,6 +221,7 @@ article h3 {
 		font-size: 40px;
 		color: #FF5A5F;
 		background-color: black;
+		margin-left: -5px;
 	}
 	article {
 		width: 100%;
